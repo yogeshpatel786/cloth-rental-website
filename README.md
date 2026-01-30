@@ -66,11 +66,5 @@ The application should now be running at:
 
 ---
 
-## 👩‍💻 Author
-
-**Ayush Kumar**
-
-* GitHub: [ayyuuushh](https://github.com/ayyuuushh)
-* LinkedIn: [ayyuuushh](https://www.linkedin.com/in/ayyuuushh/)
 
 
